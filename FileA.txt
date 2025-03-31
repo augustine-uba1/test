@@ -1,3 +1,5 @@
 This is a FileA
 
 Testing a new change
+
+Test for staging
